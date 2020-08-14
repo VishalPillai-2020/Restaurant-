@@ -1,0 +1,18 @@
+#food-list{
+    font-size: 20px;
+    font-family: 'Bellota', cursive;
+    background-color:greenyellow
+   }
+   #submits{
+       font-family: 'Monoton', cursive;
+       font-size: 20px;
+       font-weight: bold;
+   }
+   #sort{
+       font-family: 'Monoton', cursive;
+       font-size: 20px;
+       font-weight: bold;
+   }
+   body{
+       background-image: url("https://www.helpguide.org/wp-content/uploads/table-with-grains-vegetables-fruit-768.jpg");
+   }
